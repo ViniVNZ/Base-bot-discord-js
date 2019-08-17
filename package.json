@@ -1,0 +1,23 @@
+{
+  "name": "botbase",
+  "version": "1.0.0",
+  "description": "Bot para começar",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vinicius",
+  "contributors": [
+    {
+      "name": "Vini",
+      "email": "vinizin@ph.com",
+      "url": "https://xvideos.com"
+    }
+  ],
+  "license": "Unlicense",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^6.0.0",
+    "moment": "^2.24.0"
+  }
+}
