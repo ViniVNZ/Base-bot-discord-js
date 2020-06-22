@@ -9,7 +9,7 @@ Base de bot de discord em javascript
 
 ```npm i ```
 
-__**Para baixar as APIs.**__
+Para baixar as APIs.
 
 
 **Para iniciar o bot use.**
